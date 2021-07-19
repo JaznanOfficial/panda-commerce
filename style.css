@@ -4,5 +4,23 @@ nav{
 
 .bg-color{
     background-color:#F1F1F1;
-    ;
+    
+}
+.search-bar{
+    width: 100%;
+    background-image: url("search.png");
+    background-repeat: no-repeat;
+    background-position: 98%;
+}
+
+.price{
+    color: #FF136F;
+}
+.car-bg{
+    background: #FEEAE9;
+
+}
+
+.button-bg{
+    background-image: linear-gradient(to right,#FF589B,#FF136F);
 }
