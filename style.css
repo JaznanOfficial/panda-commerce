@@ -24,3 +24,16 @@ nav{
 .button-bg{
     background-image: linear-gradient(to right,#FF589B,#FF136F);
 }
+
+main{
+    background-color:#F4F4F4;
+    
+}
+
+.border-round{
+    border-radius: 10px;
+}
+
+.bg-button{
+    
+}
